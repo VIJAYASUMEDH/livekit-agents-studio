@@ -1,0 +1,10 @@
+{
+  "name": "LiveKit Agents Studio",
+  "description": "Interactive voice and multimodal AI agent workbench for designing, testing, and exporting livekit/agents pipelines.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
